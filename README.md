@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
@@ -68,3 +69,7 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 ### `npm run build` fails to minify
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+=======
+# Skill-Share-Website-Using-React-Native-Spring-Boot
+CraftShare is a full‑stack social platform built with React and Spring Boot. It supports email/OTP and Google OAuth login, creating posts with images/videos, real‑time interactions (likes, comments, follow), user profiles, notifications, and media uploads, backed by MySQL.
+>>>>>>> 8b402cd910a1019b917791bf8f800df437b18db3
